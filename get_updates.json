@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 766166758,
+      "message": {
+        "message_id": 119,
+        "from": {
+          "id": 866871406,
+          "is_bot": false,
+          "first_name": "Ёльдар",
+          "username": "komissionka74",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 866871406,
+          "first_name": "Ёльдар",
+          "username": "komissionka74",
+          "type": "private"
+        },
+        "date": 1660052737,
+        "text": "xxx"
+      }
+    },
+    {
+      "update_id": 766166759,
+      "message": {
+        "message_id": 120,
+        "from": {
+          "id": 866871406,
+          "is_bot": false,
+          "first_name": "Ёльдар",
+          "username": "komissionka74",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 866871406,
+          "first_name": "Ёльдар",
+          "username": "komissionka74",
+          "type": "private"
+        },
+        "date": 1660052814,
+        "text": "sss"
+      }
+    },
+    {
+      "update_id": 766166760,
+      "message": {
+        "message_id": 121,
+        "from": {
+          "id": 866871406,
+          "is_bot": false,
+          "first_name": "Ёльдар",
+          "username": "komissionka74",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 866871406,
+          "first_name": "Ёльдар",
+          "username": "komissionka74",
+          "type": "private"
+        },
+        "date": 1660053036,
+        "text": "привет"
+      }
+    },
+    {
+      "update_id": 766166761,
+      "message": {
+        "message_id": 124,
+        "from": {
+          "id": 866871406,
+          "is_bot": false,
+          "first_name": "Ёльдар",
+          "username": "komissionka74",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 866871406,
+          "first_name": "Ёльдар",
+          "username": "komissionka74",
+          "type": "private"
+        },
+        "date": 1660053208,
+        "text": "сам пидор"
+      }
+    },
+    {
+      "update_id": 766166762,
+      "message": {
+        "message_id": 128,
+        "from": {
+          "id": 866871406,
+          "is_bot": false,
+          "first_name": "Ёльдар",
+          "username": "komissionka74",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 866871406,
+          "first_name": "Ёльдар",
+          "username": "komissionka74",
+          "type": "private"
+        },
+        "date": 1660121581,
+        "text": "ghb"
+      }
+    },
+    {
+      "update_id": 766166763,
+      "message": {
+        "message_id": 136,
+        "from": {
+          "id": 866871406,
+          "is_bot": false,
+          "first_name": "Ёльдар",
+          "username": "komissionka74",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 866871406,
+          "first_name": "Ёльдар",
+          "username": "komissionka74",
+          "type": "private"
+        },
+        "date": 1660122922,
+        "text": "пошел нахуй"
+      }
+    }
+  ]
+}
